@@ -4,3 +4,10 @@
 .txt-white{
     color: white;
 }
+.btn{
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 18px;
+    color: white;
+    background-color: green;
+}
